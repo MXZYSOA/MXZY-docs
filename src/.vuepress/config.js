@@ -48,7 +48,7 @@ export default defineUserConfig({
         link: '/acknowledgments'
       }
     ],
-    docsRepo: 'mcstaralliance/manual',
+    docsRepo: 'MXZYSOA/MXZY-docs',
     docsBranch: 'main',
     lastUpdatedText: '最后更新 ',
     editLinkText: '帮助我们完善这个页面',
