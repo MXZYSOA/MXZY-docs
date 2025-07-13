@@ -32,6 +32,10 @@ export default defineUserConfig({
         link: '/newbie-tutorial'
       },
       {
+        text: '插件指令',
+        link: '/jiaocheng'
+      },
+      {
         text: '玩家守则',
         link: '/agreement'
       },
