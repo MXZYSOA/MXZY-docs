@@ -159,8 +159,9 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 - 锤技(Maces)        - 采矿(Mining)
 - 维修(Repair)       - 剑技(Swords)
 - 驯服(Taming)       - 三叉戟(Tridents)
-- 徒手(Unarmed)      - 伐木(Woodcutting):::
-查看信息：主菜单 > 我的mcMMO信息
+- 徒手(Unarmed)      - 伐木(Woodcutting)
+:::
+- 查看信息：主菜单 > 我的mcMMO信息
 
 ## 18. MMOInventory
 
@@ -172,17 +173,17 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 
 ## 20. 宠物插件（旧版）
 
-::: code-group
+::: tip 命令简介
 
-/petinfo [玩家名]    # 查看宠物信息
-/petname <新名字>    # 重命名宠物
-/petrelease         # 释放宠物
-/petcall            # 召唤宠物
+- /petinfo [玩家名]    # 查看宠物信息
+- /petname <新名字>    # 重命名宠物
+- /petrelease         # 释放宠物
+- /petcall            # 召唤宠物
 
-/petbehavior <模式>  # 切换行为模式
-/petinventory        # 打开宠物背包
-/petshop             # 打开宠物商店
-/pettrade <玩家> <价格> # 交易宠物
+- /petbehavior <模式>  # 切换行为模式
+- /petinventory        # 打开宠物背包
+- /petshop             # 打开宠物商店
+- /pettrade <玩家> <价格> # 交易宠物
 
 :::
 
