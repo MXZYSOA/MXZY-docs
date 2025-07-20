@@ -99,21 +99,21 @@ sidebar: auto
 
 附魔列表：
 
-英文名 中文名 最高等级 效果描述
-Long Cast 长距离施法 1 增加抛竿距离
-Swift Cast 快速投掷 3 减少收/抛竿时间
-Bountiful Lure 丰饶诱饵 2 提高稀有鱼几率
-Everlasting Bait 永恒鱼饵 1 鱼饵概率不消耗
-Auto Bait 自动鱼饵 1 自动补充新鱼饵
-Powerful Reel 强力卷轴 2 提高捕获大型鱼成功率
-Fisher's Bond 渔夫羁绊 2 团队钓鱼效率提升
-Storm Fisher 风暴渔夫 2 雨天增加稀有鱼概率
-Line Mender 钓线修复 1 修复鱼竿耐久
-Shared Bounty 共享赏金 2 附近玩家共享收获
-Quick Reel 快速收线 1 加速收竿
-Mystic Bite 神秘之咬 2 提高稀有物品获取率
-Magnetic Lure 磁性诱饵 2 扩大鱼类吸引范围
-Monster Repellent 驱怪灵药 1 驱散攻击性生物
+- 英文名             中文名   最高等级  效果描述
+- Long Cast          长距离施法 1      增加抛竿距离
+- Swift Cast         快速投掷   3      减少收/抛竿时间
+- Bountiful Lure     丰饶诱饵   2      提高稀有鱼几率
+- Everlasting Bait   永恒鱼饵   1      鱼饵概率不消耗
+- Auto Bait          自动鱼饵   1      自动补充新鱼饵
+- Powerful Reel      强力卷轴   2      提高捕获大型鱼成功率
+- Fisher's Bond      渔夫羁绊   2      团队钓鱼效率提升
+- Storm Fisher       风暴渔夫   2      雨天增加稀有鱼概率
+- Line Mender        钓线修复   1      修复鱼竿耐久
+- Shared Bounty      共享赏金   2      附近玩家共享收获
+- Quick Reel         快速收线   1      加速收竿
+- Mystic Bite        神秘之咬   2      提高稀有物品获取率
+- Magnetic Lure      磁性诱饵   2      扩大鱼类吸引范围
+- Monster Repellent  驱怪灵药   1      驱散攻击性生物
 
 :::
 
