@@ -76,11 +76,11 @@ sidebar: auto
 
 ## 10. 图片系统
 
-/image create <图片名|URL> [缩放比例]  # 创建新图像
-/image delete                         # 删除点击的图像
-/image delete near <范围>             # 范围删除
-/image import                        # 旧格式转换
-/image transfer                      # 数据库迁移
+- /image create <图片名|URL> [缩放比例]  # 创建新图像
+- /image delete                         # 删除点击的图像
+- /image delete near <范围>             # 范围删除
+- /image import                        # 旧格式转换
+- /image transfer                      # 数据库迁移
 
 ## 11. 农业插件
 
@@ -99,30 +99,30 @@ sidebar: auto
 
 附魔列表：
 
-英文名 中文名 最高等级 效果描述
-Long Cast 长距离施法 1 增加抛竿距离
-Swift Cast 快速投掷 3 减少收/抛竿时间
-Bountiful Lure 丰饶诱饵 2 提高稀有鱼几率
-Everlasting Bait 永恒鱼饵 1 鱼饵概率不消耗
-Auto Bait 自动鱼饵 1 自动补充新鱼饵
-Powerful Reel 强力卷轴 2 提高捕获大型鱼成功率
-Fisher's Bond 渔夫羁绊 2 团队钓鱼效率提升
-Storm Fisher 风暴渔夫 2 雨天增加稀有鱼概率
-Line Mender 钓线修复 1 修复鱼竿耐久
-Shared Bounty 共享赏金 2 附近玩家共享收获
-Quick Reel 快速收线 1 加速收竿
-Mystic Bite 神秘之咬 2 提高稀有物品获取率
-Magnetic Lure 磁性诱饵 2 扩大鱼类吸引范围
-Monster Repellent 驱怪灵药 1 驱散攻击性生物
+- 英文名             中文名   最高等级  效果描述
+- Long Cast          长距离施法 1      增加抛竿距离
+- Swift Cast         快速投掷   3      减少收/抛竿时间
+- Bountiful Lure     丰饶诱饵   2      提高稀有鱼几率
+- Everlasting Bait   永恒鱼饵   1      鱼饵概率不消耗
+- Auto Bait          自动鱼饵   1      自动补充新鱼饵
+- Powerful Reel      强力卷轴   2      提高捕获大型鱼成功率
+- Fisher's Bond      渔夫羁绊   2      团队钓鱼效率提升
+- Storm Fisher       风暴渔夫   2      雨天增加稀有鱼概率
+- Line Mender        钓线修复   1      修复鱼竿耐久
+- Shared Bounty      共享赏金   2      附近玩家共享收获
+- Quick Reel         快速收线   1      加速收竿
+- Mystic Bite        神秘之咬   2      提高稀有物品获取率
+- Magnetic Lure      磁性诱饵   2      扩大鱼类吸引范围
+- Monster Repellent  驱怪灵药   1      驱散攻击性生物
 
 :::
 
-环境事件
+### 环境事件
 
-事件类型 影响效果
-水污染 降低稀有鱼捕获率
-月相 提高稀有鱼概率 + 专属月相鱼种
-季节 大幅提高稀有鱼出现率
+- 事件类型 影响效果
+- 水污染 降低稀有鱼捕获率
+- 月相 提高稀有鱼概率 + 专属月相鱼种
+- 季节 大幅提高稀有鱼出现率
 
 ## 13. 兑换码
 
@@ -130,12 +130,12 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 
 ## 14. 工会系统
 
-/legendaryguild list       # 公会列表
-/legendaryguild create <名称> # 创建公会
-/legendaryguild join <名称>  # 加入公会
-/legendaryguild money <数量> # 捐赠资金
-/legendaryguild redpacket <金额> <份数> # 发红包
-/legendaryguild delete confirm # 解散公会
+- /legendaryguild list       # 公会列表
+- /legendaryguild create <名称> # 创建公会
+- /legendaryguild join <名称>  # 加入公会
+- /legendaryguild money <数量> # 捐赠资金
+- /legendaryguild redpacket <金额> <份数> # 发红包
+- /legendaryguild delete confirm # 解散公会
 
 ## 15. LobbyGames小游戏
 
@@ -160,8 +160,10 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 - 维修(Repair)       - 剑技(Swords)
 - 驯服(Taming)       - 三叉戟(Tridents)
 - 徒手(Unarmed)      - 伐木(Woodcutting)
+
 :::
-- 查看信息：主菜单 > 我的mcMMO信息
+#### 查看信息：主菜单 > 我的mcMMO信息
+
 
 ## 18. MMOInventory
 
@@ -200,11 +202,11 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 
 ## 23. 现代宠物插件（⭐推荐⭐）
 
-/pet help     # 帮助列表
-/pet list     # 显示所有宠物
-/pet spawn <类型> # 生成新宠物
-/pet call [ID] # 召唤宠物
-/apet <命令>   # 管理员命令
+- /pet help     # 帮助列表
+- /pet list     # 显示所有宠物
+- /pet spawn <类型> # 生成新宠物
+- /pet call [ID] # 召唤宠物
+- /apet <命令>   # 管理员命令
 
 ## 24. 强化插件
 
@@ -212,39 +214,27 @@ Monster Repellent 驱怪灵药 1 驱散攻击性生物
 - 炉岩碳获取：菜单购买/怪物掉落
 
 ## 25. 种族插件
-
 ::: details 种族特性
-
 #### 天使
-
 - 被动：掉落/水中无伤
 - 主动：治疗/召唤生物
 - 弱点：无
-
 #### 恶魔
-
 - 被动：火焰/岩浆免疫
 - 主动：发射火焰弹
 - 弱点：仅穿锁链装备
-
 #### 吸血鬼
-
 - 被动：近战增强/怪物休战
 - 主动：远程吸血
 - 弱点：阳光下燃烧/仅食生肉
-
 #### 狼人
-
 - 被动：夜间能力强化
 - 主动：召唤狼群/冲刺
 - 弱点：白天能力削弱
-
 #### 食尸鬼
-
 - 被动：僵尸休战/近战吸血
 - 主动：召唤猪人/诅咒人类
 - 弱点：怕水
-
 #### 重拾人性：合成孟婆汤（知识之书解锁配方）
 :::
 
