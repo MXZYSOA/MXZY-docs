@@ -164,6 +164,7 @@ sidebar: auto
 :::
 #### 查看信息：主菜单 > 我的mcMMO信息
 
+
 ## 18. MMOInventory
 
 查看库存：/mmoinventory
@@ -174,13 +175,13 @@ sidebar: auto
 
 ## 20. 宠物插件（旧版）
 
-::: code-group
+::: tip 命令简介
 
 - /petinfo [玩家名]    # 查看宠物信息
 - /petname <新名字>    # 重命名宠物
 - /petrelease         # 释放宠物
 - /petcall            # 召唤宠物
--
+
 - /petbehavior <模式>  # 切换行为模式
 - /petinventory        # 打开宠物背包
 - /petshop             # 打开宠物商店
