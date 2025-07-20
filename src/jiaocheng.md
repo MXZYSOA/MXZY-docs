@@ -117,12 +117,12 @@ sidebar: auto
 
 :::
 
-环境事件
+### 环境事件
 
-事件类型 影响效果
-水污染 降低稀有鱼捕获率
-月相 提高稀有鱼概率 + 专属月相鱼种
-季节 大幅提高稀有鱼出现率
+- 事件类型 影响效果
+- 水污染 降低稀有鱼捕获率
+- 月相 提高稀有鱼概率 + 专属月相鱼种
+- 季节 大幅提高稀有鱼出现率
 
 ## 13. 兑换码
 
@@ -130,12 +130,12 @@ sidebar: auto
 
 ## 14. 工会系统
 
-/legendaryguild list       # 公会列表
-/legendaryguild create <名称> # 创建公会
-/legendaryguild join <名称>  # 加入公会
-/legendaryguild money <数量> # 捐赠资金
-/legendaryguild redpacket <金额> <份数> # 发红包
-/legendaryguild delete confirm # 解散公会
+- /legendaryguild list       # 公会列表
+- /legendaryguild create <名称> # 创建公会
+- /legendaryguild join <名称>  # 加入公会
+- /legendaryguild money <数量> # 捐赠资金
+- /legendaryguild redpacket <金额> <份数> # 发红包
+- /legendaryguild delete confirm # 解散公会
 
 ## 15. LobbyGames小游戏
 
@@ -159,8 +159,10 @@ sidebar: auto
 - 锤技(Maces)        - 采矿(Mining)
 - 维修(Repair)       - 剑技(Swords)
 - 驯服(Taming)       - 三叉戟(Tridents)
-- 徒手(Unarmed)      - 伐木(Woodcutting):::
-查看信息：主菜单 > 我的mcMMO信息
+- 徒手(Unarmed)      - 伐木(Woodcutting)
+
+:::
+#### 查看信息：主菜单 > 我的mcMMO信息
 
 ## 18. MMOInventory
 
@@ -174,24 +176,24 @@ sidebar: auto
 
 ::: code-group
 
-/petinfo [玩家名]    # 查看宠物信息
-/petname <新名字>    # 重命名宠物
-/petrelease         # 释放宠物
-/petcall            # 召唤宠物
-
-/petbehavior <模式>  # 切换行为模式
-/petinventory        # 打开宠物背包
-/petshop             # 打开宠物商店
-/pettrade <玩家> <价格> # 交易宠物
+- /petinfo [玩家名]    # 查看宠物信息
+- /petname <新名字>    # 重命名宠物
+- /petrelease         # 释放宠物
+- /petcall            # 召唤宠物
+-
+- /petbehavior <模式>  # 切换行为模式
+- /petinventory        # 打开宠物背包
+- /petshop             # 打开宠物商店
+- /pettrade <玩家> <价格> # 交易宠物
 
 :::
 
 ## 21. NekoTraps 生物陷阱
 
-1. 菜单购买陷阱盒
-2. 放置地面吸引生物
-3. 盒子闭合后挖取携带
-4. 放置右键释放生物
+- 1. 菜单购买陷阱盒
+- 2. 放置地面吸引生物
+- 3. 盒子闭合后挖取携带
+- 4. 放置右键释放生物
 
 ## 22. 在线奖励
 
@@ -199,11 +201,11 @@ sidebar: auto
 
 ## 23. 现代宠物插件（⭐推荐⭐）
 
-/pet help     # 帮助列表
-/pet list     # 显示所有宠物
-/pet spawn <类型> # 生成新宠物
-/pet call [ID] # 召唤宠物
-/apet <命令>   # 管理员命令
+- /pet help     # 帮助列表
+- /pet list     # 显示所有宠物
+- /pet spawn <类型> # 生成新宠物
+- /pet call [ID] # 召唤宠物
+- /apet <命令>   # 管理员命令
 
 ## 24. 强化插件
 
@@ -245,6 +247,7 @@ sidebar: auto
 - 弱点：怕水
 
 #### 重拾人性：合成孟婆汤（知识之书解锁配方）
+
 :::
 
 ## 26. 玩家称号
