@@ -76,11 +76,11 @@ sidebar: auto
 
 ## 10. 图片系统
 
-/image create <图片名|URL> [缩放比例]  # 创建新图像
-/image delete                         # 删除点击的图像
-/image delete near <范围>             # 范围删除
-/image import                        # 旧格式转换
-/image transfer                      # 数据库迁移
+- /image create <图片名|URL> [缩放比例]  # 创建新图像
+- /image delete                         # 删除点击的图像
+- /image delete near <范围>             # 范围删除
+- /image import                        # 旧格式转换
+- /image transfer                      # 数据库迁移
 
 ## 11. 农业插件
 
@@ -190,10 +190,10 @@ sidebar: auto
 
 ## 21. NekoTraps 生物陷阱
 
-- 1. 菜单购买陷阱盒
-- 2. 放置地面吸引生物
-- 3. 盒子闭合后挖取携带
-- 4. 放置右键释放生物
+1. 菜单购买陷阱盒
+2. 放置地面吸引生物
+3. 盒子闭合后挖取携带
+4. 放置右键释放生物
 
 ## 22. 在线奖励
 
