@@ -15,7 +15,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'MXZY Skin',
-        link: 'https://skin.mxzysoa.top/',
+        link: 'https://ny-skin.mxzysoa.top/',
       },
       {
         text: '鸣谢名单',
